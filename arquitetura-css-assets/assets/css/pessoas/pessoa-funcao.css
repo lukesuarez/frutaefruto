@@ -1,0 +1,7 @@
+.pessoa__funcao {
+    color: #595959;
+    display: flex;
+    font-size: 1.25rem;
+    justify-content: center;
+    margin-top: 0.75rem;
+}
